@@ -17,8 +17,8 @@ We enhanced the program by adding a feature that allows the user to feed the cla
 The program works with Python3. The following libraries need to be installed prior to running the program: <br/>
 numpy, tensorflow, keras, sklearn, PIL, matplotlib
 
-**Instructions** <br/>
-1. Run the file Project_version_3.ipynb <br/>
+**Instructions**
+1. Run the file Project_version_3.ipynb
 2. asd
 
 Files
