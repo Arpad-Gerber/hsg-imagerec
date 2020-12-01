@@ -18,7 +18,8 @@ The program works with Python3. The following libraries need to be installed pri
 numpy, tensorflow, keras, sklearn, PIL, matplotlib
 
 **Instructions** <br/>
-1.
+1. Run the file Project_version_3.ipynb
+2. asd
 
 Files
 
