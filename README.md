@@ -2,9 +2,8 @@ Group project: Machine Learning with Python: digit recognition
 
 **Group members**
 
-Arpad Gerber
-Dominik Lanter
-Justus Hofmann
+Arpad Gerber, Dominik Lanter, Justus Hofmann
+
 
 **About**
 
