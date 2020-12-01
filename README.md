@@ -17,12 +17,13 @@ We enhanced the program by adding a feature that allows the user to feed the cla
 The program works with Python3. The following libraries need to be installed prior to running the program: <br/>
 numpy, tensorflow, keras, sklearn, PIL, matplotlib
 
-**Instructions**
-1. Run the file Project_version_3.ipynb
-2. asd
+**Instructions** <br/>
+1. Prior to starting the programm, you might want to add some additional self-written images of digits to the folder ""
+2. Run the file Project_version_3.ipynb
+3. Choose which digit you want to classify by changing the file name of the respective image in the image converter
+4. The output should give the digit classification as well as a plot showing the recognition probabilites
 
-Files
+**Description**
 
-Description
 
-Sources 
+**Sources** 
