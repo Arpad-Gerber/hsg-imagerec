@@ -24,7 +24,7 @@ The program is coded in Python3. The following libraries need to be installed pr
 
 **Description** <br/>
 First, we prepare the data. We load data sets for training and testing from the mnist package. We found this package more convenient than downloading and importing the data ourselves. We then bring the data sets into a form that is optimized for the learning model and normalize values to the range from 0 to 1. <br/>
-Second, we build a sequential model based on a convolutional neural network using *tenserflow* and *keras*. We then optimize and finally compile it. <br/>
+Second, we build a sequential model based on a convolutional neural network using *tensorflow* and *keras*. We then optimize and finally compile it. <br/>
 Thirdly, we fit the established model using the training data sets. We evaluate the model by looking at the test accuracy and find that the out-of-sample precision of 98.7% is sufficiently accurate. <br/>
 Next, we import an image file of our handwritten digits. The image is then resized to 28x28 pixels, centered, and the colors are inverted as the training data are images of white digits on black ground. After that, we convert the image into the format that our classifier model is based on. <br/>
 Finally, we let the model predict the digit of the input image. As an output, we provide the recognised digit and an additional chart with the different probabilities of the prediction.
