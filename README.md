@@ -1,4 +1,4 @@
-# **Group project: Machine Learning with Python (digit recognition)**
+# **Group project: Machine Learning with Python - Digit Recognition**
 
 **Group members** <br/>
 Arpad Gerber <br/>
