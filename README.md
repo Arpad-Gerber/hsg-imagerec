@@ -17,7 +17,7 @@ The program is coded in Python3. The following libraries need to be installed pr
 *numpy, tensorflow, keras, sklearn, PIL, matplotlib*
 
 **Instructions** <br/>
-1. Prior to starting the programm, you might want to add some additional self-written images of digits to the folder (images should be in PNG or JPEG format).
+1. Prior to starting the programm, you might want to add some additional self-written images of digits to the folder 'Digit Images' (images should be in PNG or JPEG format).
 2. Run the file Project_version_4.ipynb.
 3. Choose which digit you want to classify by changing the file name of the respective image in the image converter.
 4. The output should give the digit classification as well as a plot showing the recognition probabilites.
