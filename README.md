@@ -30,7 +30,7 @@ Next, we import an image file of our handwritten digits. The image is then resiz
 Finally, we let the model predict the digit of the input image. As an output, we provide the recognised digit and an additional chart with the different probabilities of the prediction.
 
 **Sources** <br/>
-data sets: 
+data sets: <br/>
 http://yann.lecun.com/exdb/mnist/tutorial <br/>
 https://www.kaggle.com/hojjatk/read-mnist-dataset<br/>
 *tensorflow* tutorial: 
