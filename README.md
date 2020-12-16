@@ -39,7 +39,7 @@ https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network
 https://www.datacamp.com/community/tutorials/deep-learning-python <br/>
 https://www.tensorflow.org/api_docs/python/tf/keras/utils/to_categorical<br/>
 https://www.tensorflow.org/tutorials/keras/classification<br/>
-https://stackoverflow.com/questions/36952763/how-to-return-history-of-validation-loss-in-keras
+https://stackoverflow.com/questions/36952763/how-to-return-history-of-validation-loss-in-keras <br/>
 image conversion: <br/>
 https://machinelearningmastery.com/how-to-manually-scale-image-pixel-data-for-deep-learning/ <br/>
 https://www.pluralsight.com/guides/importing-image-data-into-numpy-arrays<br/>
