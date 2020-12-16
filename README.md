@@ -30,14 +30,18 @@ Next, we import an image file of our handwritten digits. The image is then resiz
 Finally, we let the model predict the digit of the input image. As an output, we provide the recognised digit and an additional chart with the different probabilities of the prediction.
 
 **Sources** <br/>
-data sets: http://yann.lecun.com/exdb/mnist/tutorial <br/>
+data sets: 
+http://yann.lecun.com/exdb/mnist/tutorial <br/>
 https://www.kaggle.com/hojjatk/read-mnist-dataset<br/>
-*tensorflow* tutorial: https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/#:~:text=MNIST%20Handwritten%20Digit%20Classification%20Dataset,-The%20MNIST%20dataset&text=It%20is%20a%20dataset%20of,from%200%20to%209%2C%20inclusively <br/>
-*keras* tutorial: https://www.datacamp.com/community/tutorials/deep-learning-python <br/>
+*tensorflow* tutorial: 
+https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/#:~:text=MNIST%20Handwritten%20Digit%20Classification%20Dataset,-The%20MNIST%20dataset&text=It%20is%20a%20dataset%20of,from%200%20to%209%2C%20inclusively <br/>
+*keras* tutorial: 
+https://www.datacamp.com/community/tutorials/deep-learning-python <br/>
 https://www.tensorflow.org/api_docs/python/tf/keras/utils/to_categorical<br/>
 https://www.tensorflow.org/tutorials/keras/classification<br/>
 https://stackoverflow.com/questions/36952763/how-to-return-history-of-validation-loss-in-keras
-image conversion: https://machinelearningmastery.com/how-to-manually-scale-image-pixel-data-for-deep-learning/ <br/>
+image conversion: 
+https://machinelearningmastery.com/how-to-manually-scale-image-pixel-data-for-deep-learning/ <br/>
 https://www.pluralsight.com/guides/importing-image-data-into-numpy-arrays<br/>
 https://stackoverflow.com/questions/45826184/what-image-format-are-mnist-images<br/>
 https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/<br/>
