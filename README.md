@@ -33,14 +33,14 @@ Finally, we let the model predict the digit of the input image. As an output, we
 data sets: <br/>
 http://yann.lecun.com/exdb/mnist/tutorial <br/>
 https://www.kaggle.com/hojjatk/read-mnist-dataset<br/>
-*tensorflow* tutorial: 
+*tensorflow* tutorial: <br/>
 https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/#:~:text=MNIST%20Handwritten%20Digit%20Classification%20Dataset,-The%20MNIST%20dataset&text=It%20is%20a%20dataset%20of,from%200%20to%209%2C%20inclusively <br/>
-*keras* tutorial: 
+*keras* tutorial: <br/>
 https://www.datacamp.com/community/tutorials/deep-learning-python <br/>
 https://www.tensorflow.org/api_docs/python/tf/keras/utils/to_categorical<br/>
 https://www.tensorflow.org/tutorials/keras/classification<br/>
 https://stackoverflow.com/questions/36952763/how-to-return-history-of-validation-loss-in-keras
-image conversion: 
+image conversion: <br/>
 https://machinelearningmastery.com/how-to-manually-scale-image-pixel-data-for-deep-learning/ <br/>
 https://www.pluralsight.com/guides/importing-image-data-into-numpy-arrays<br/>
 https://stackoverflow.com/questions/45826184/what-image-format-are-mnist-images<br/>
